@@ -1,5 +1,5 @@
 # TODO
-simple todo list manager
+simple todo list manager, built by following the [getting-started](https://github.com/docker/getting-started) tutorial from Docker
 - running in Node.js
 - packaged with Docker
 
